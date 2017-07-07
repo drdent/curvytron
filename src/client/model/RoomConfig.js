@@ -51,7 +51,7 @@ RoomConfig.prototype.variablesNames = {
 RoomConfig.prototype.presets = [
     new DefaultPreset(),
     new SpeedPreset(),
-    new EmptyPreset()
+    new EmptyPreset(),
     new MultiplayerPreset()
 ];
 
