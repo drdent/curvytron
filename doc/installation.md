@@ -5,6 +5,16 @@ You need to install node on the machine that will run the Curvytron server.
 
 ## Installation
 
+__Setup Environment__
+## Ubuntu
+sudo apt-get update
+sudo apt-get install nodejs
+sudo apt-get install npm
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+nvm install 0.12.7
+npm install -g bower gulp
+
+
 __Clone the repository__
 
     git clone https://github.com/Elao/curvytron.git
