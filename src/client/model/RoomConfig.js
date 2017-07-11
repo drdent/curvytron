@@ -23,15 +23,11 @@ RoomConfig.prototype.bonusClasses = {
     BonusSelfSmall: 'bonus-self-small',
     BonusSelfSlow: 'bonus-self-slow',
     BonusSelfFast: 'bonus-self-fast',
-    BonusSelfMaster: 'bonus-self-master',
     BonusEnemySlow: 'bonus-enemy-slow',
     BonusEnemyFast: 'bonus-enemy-fast',
     BonusEnemyBig: 'bonus-enemy-big',
     BonusEnemyInverse: 'bonus-enemy-inverse',
-    BonusEnemyStraightAngle: 'bonus-enemy-straight-angle',
-    BonusGameBorderless: 'bonus-game-borderless',
-    BonusAllColor:'bonus-all-color',
-    BonusGameClear: 'bonus-all-clear'
+    BonusEnemyStraightAngle: 'bonus-enemy-straight-angle'
 };
 
 /**
