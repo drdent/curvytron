@@ -25,7 +25,6 @@ MultiplayerPreset.prototype.bonuses = [
     'BonusSelfSmall',
     'BonusSelfSlow',
     'BonusSelfFast',
-    'BonusSelfMaster',
     'BonusEnemyBig',
     'BonusEnemyFast',
     'BonusEnemyInverse',

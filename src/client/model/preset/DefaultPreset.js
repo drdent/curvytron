@@ -25,13 +25,9 @@ DefaultPreset.prototype.bonuses = [
     'BonusSelfSmall',
     'BonusSelfSlow',
     'BonusSelfFast',
-    'BonusSelfMaster',
-    'BonusEnemySlow',
-    'BonusEnemyFast',
     'BonusEnemyBig',
+    'BonusEnemyFast',
     'BonusEnemyInverse',
-    'BonusEnemyStraightAngle',
-    'BonusGameBorderless',
-    'BonusAllColor',
-    'BonusGameClear'
+    'BonusEnemySlow',
+    'BonusEnemyStraightAngle'
 ];
