@@ -18,15 +18,11 @@ function BaseRoomConfig(room)
         BonusSelfSmall: true,
         BonusSelfSlow: true,
         BonusSelfFast: true,
-        BonusSelfMaster: true,
         BonusEnemySlow: true,
         BonusEnemyFast: true,
         BonusEnemyBig: true,
         BonusEnemyInverse: true,
-        BonusEnemyStraightAngle: true,
-        BonusGameBorderless: true,
-        BonusAllColor: true,
-        BonusGameClear: true
+        BonusEnemyStraightAngle: true
     };
 }
 
